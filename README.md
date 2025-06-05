@@ -1,6 +1,10 @@
 # data-analysis-on-Pizza-sales-PowerBI
 Analysis of pizza sales
 🚀 Data-Driven Decisions, One Slice at a Time! 🍕📊
+![image](https://github.com/user-attachments/assets/52a9f878-a125-4a04-be33-320977a76804)
+![image](https://github.com/user-attachments/assets/b3a739a9-57ed-4d42-9c8f-6d6ab41f014b)
+
+
 
 After diving into a full year's worth of sales data for our pizzeria, I conducted an end-to-end Pizza Sales Analysis, transforming raw numbers into actionable insights. Here’s what I uncovered using Power BI:
 
